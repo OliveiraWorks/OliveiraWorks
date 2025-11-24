@@ -10,7 +10,7 @@
 
 <p align="left">
   <!-- Troca o link pelo teu Instagram -->
-  <a href="https://instagram.com/iupedrohenrique target="_blank">
+  <a href="https://instagram.com/iupedrohenrique/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <!-- Se tiver LinkedIn, descomenta e edita embaixo -->
