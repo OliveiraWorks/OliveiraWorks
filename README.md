@@ -10,7 +10,7 @@
 
 <p align="left">
   <!-- Troca o link pelo teu Instagram -->
-  <a href="https://instagram.com/oliveiraworkofc target="_blank">
+  <a href="https://instagram.com/iupedrohenrique target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <!-- Se tiver LinkedIn, descomenta e edita embaixo -->
@@ -42,19 +42,6 @@
 - 🎓 Análise web IFRS 
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- Troca SEU_USUARIO pelo teu @ do GitHub -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=OliveiraWorks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraWorks&layout=compact&langs_count=7&theme=radical"/>
-
-</div>
-
----
-
 
 - 💡 Brincando com **projetos pequenos** pra praticar lógica e web
 - 🧪 Testando **coisas com IA, bots e automações**
