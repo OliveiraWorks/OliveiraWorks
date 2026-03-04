@@ -1,7 +1,7 @@
-<h1 align="center">Fala aí, eu sou o Oliveira!</h1>
+<h1 align="center">Hey, I'm Oliveira!</h1>
 
 <p align="center">
-  <em>Estudante de TI | Dev em evolução | Apaixonado por código e café ☕</em>
+  <em>IT Student | Dev in training <em>
 </p>
 
 ---
@@ -35,16 +35,12 @@
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About me
 
-- 🔭 Atualmente estudando **Python, PHP, JavaScript, HTML e CSS**
-- 🎓 Ensino médio técnico em **TI**
-- 🎓 Análise web IFRS 
+- 🔭 Currently studying **PHP, JavaScript, HTML e CSS**
+- 🎓 Tecnical High school **IT**
+- 🎓 Web analysis IFRS
+- 🎓 Cloud Foundations AWS
+- 🎓 Operational Systems IFRS 
 
----
 
-- 💡 Brincando com **projetos pequenos** pra praticar lógica e web
-- 🧪 Testando **coisas com IA, bots e automações**
-- 📚 Sempre aprendendo algo novo
-
----
