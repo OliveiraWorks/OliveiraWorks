@@ -20,7 +20,7 @@ I am a tech enthusiast currently transitioning from **Full-Stack Development** t
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
 | **Backend** | PHP, Basic Node.js |
-| **Cloud & Tools** | AWS, Git, GitHub, Linux (Operational Systems) |
+| **Cloud & Tools** | AWS, Git, GitHub |
 | **Learning Now** | **Python, Machine Learning & SQL** |
 
 ---
