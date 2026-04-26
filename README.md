@@ -1,46 +1,40 @@
-<h1 align="center">Hey, I'm Oliveira!</h1>
+# Hi there, I'm Oliveria! 👋
 
-<p align="center">
-  <em>IT Student | Dev in training <em>
-</p>
+### Full-Stack Developer in Training | Aspiring AI Engineer | Based in Ceará, Brazil ☀️
 
----
-
-### 🌐 Socials
-
-<p align="left">
-  <!-- Troca o link pelo teu Instagram -->
-  <a href="https://instagram.com/iupedrohenrique/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <!-- Se tiver LinkedIn, descomenta e edita embaixo -->
-  
-  <a href="https://www.linkedin.com/in/pedro-oliveira-ab530b38b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-</p>
+I am a tech enthusiast currently transitioning from **Full-Stack Development** to the world of **Artificial Intelligence Engineering**. My journey is fueled by a passion for solving complex problems through code and a deep interest in how intelligent systems can reshape our future.
 
 ---
 
-### 💻 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### 🚀 About Me
+- 🎓 **Education:** Technical High School in IT & Ongoing specialized courses at IFRS.
+- 🧠 **Focus:** Transitioning my logic and web development skills into **Python for AI & Data Science**.
+- ☁️ **Cloud:** Knowledgeable in **AWS Cloud Foundations**.
+- 📍 **Location:** Living and coding from the vibrant tech ecosystem of **Ceará**.
 
 ---
 
-### 🧠 About me
+### 🛠 Tech Stack
 
-- 🔭 Currently studying **PHP, JavaScript, HTML e CSS**
-- 🎓 Tecnical High school **IT**
-- 🎓 Web analysis IFRS
-- 🎓 Cloud Foundations AWS
-- 🎓 Operational Systems IFRS 
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
+| **Backend** | PHP, Basic Node.js |
+| **Cloud & Tools** | AWS, Git, GitHub, Linux (Operational Systems) |
+| **Learning Now** | **Python, Machine Learning & SQL** |
 
+---
 
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliveiraWorks&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraWorks&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliveira-ab530b38b)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveiraworks65@gmail.com)
+
+---
+
+> *"The best way to predict the future is to invent it."*
