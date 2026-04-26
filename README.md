@@ -27,6 +27,7 @@ I am a tech enthusiast currently transitioning from **Full-Stack Development** t
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliveiraWorks&show_icons=true&theme=tokyonight)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/oliveiraworkofc/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraWorks&layout=compact&theme=tokyonight)
 
 ---
